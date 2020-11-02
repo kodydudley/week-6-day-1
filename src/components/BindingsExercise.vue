@@ -14,7 +14,7 @@
           <p>{{}}</p>
         </div>
         <div class="border p-1">
-          <h5>Two Way Data Binding</h5>
+          <h5>Two2 Way Data Binding</h5>
           <p>
             Use a v-model to bind an input value from our html to a property in
             the components data object. Then reference that data property in the
